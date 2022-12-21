@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '3aw!235zkvro)7fw^1=b_pj5+c!)&!@hdt53i_kp5zdqv)h!0e'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False #배포할 때는 디버그 메시지 보여주지 않아도 돼서 (?) false로 설정 ,디버그 문이 다빠진 폴스로 설정하고 배포
+DEBUG = True #배포할 때는 디버그 메시지 보여주지 않아도 돼서 (?) false로 설정 ,디버그 문이 다빠진 폴스로 설정하고 배포
 #테스트 서버에서 수정할 경우 있을 때 디버그를 True로 바꿔주고 설정해야함
 ALLOWED_HOSTS = ['*']
 
