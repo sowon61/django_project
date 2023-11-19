@@ -1,5 +1,6 @@
 # django_project2 <main>
 project1은 project2를 구현하기 위한 연습 폴더입니다. 
+project2는 설문조사, 블로그, 북마크를 통합하여 구현한 웹 입니다.
 
 홈 앱 화면입니다.
 ![image](https://github.com/sowon61/django_project/assets/115778827/d7c7ab74-bfeb-47ca-94c2-dc2c7b470cad)
